@@ -144,7 +144,7 @@ play_6 : "» Stream {1} üçün {0}-dən uzundur, bu da {1}-də oynamağa icazə
 play_7 : "» Əvəz olunmur video fayl formatı.\n\n<b>Dəstəklənən formatlar :</b> {0}"
 play_8 : "» Video faylı ölçüsü 1GB-dan kiçik olmalıdır."
 play_9 : "<b><u>YouTube playlist xüsusiyyəti</b></u>\n\nBütün YouTube playlistini oynamaq istədiyiniz rejimi seçin."
-play_10 : "<b>Başlıq:</b> {0}\n<b>Müddət :</b> {1} dəqiqə"
+play_10 : "<b>Başlıq:</b> {0}\n<b>Müddət:</b> {1}"
 play_11 : "<u><b>{1} Spotify pleyslisti</b></u>\n\n<b>Tələb olunur :</b> {1}"
 play_12 : "<u><b>{1} Apple pleyslisti</b></u>\n\n<b>Tələb olunur :</b> {1}"
 play_13 : "» Canlı yayım aşkarlandı.\n\nƏminsiniz ki, bu canlı yayımı oynamaq istəyirsiniz?"
@@ -181,7 +181,7 @@ stream_2 : "<b>🔻 Yayım növü:</b> Canlı yayım [URL]\n<b>👤 Tələb:</b>
 CLOSE_BUTTON  : "🗑️ Sil"
 BACK_BUTTON : "🔙 Geri"
 
-S_B_1 : "✚ Botu Qrupa Əlavə Et ✚"
+S_B_1 : "✚ Botu Əlavə Et ✚"
 S_B_2 : "🗨️ Söhbət Qrupu"
 S_B_3 : "✚ Botu Qrupa Əlavə Et ✚"
 S_B_4 : "📚 Bot Əmrləri"
