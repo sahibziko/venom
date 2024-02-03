@@ -165,16 +165,16 @@ str_3 : "YouTube canlı yayımını yayımaq mümkün deyil, heç bir canlı for
 ping_1 : "{0} pinqlənir..."
 ping_2 : "🏓 Ping: <code>{0}ms</code>\n\n<b><u>{1} sistem statistikası:</u></b>\n\n↬ UpTime : {2}\n↬ RAM: {3}\n↬ CPU: {4}\n↬ Disk: {5}\n↬ Py-TgCalls: <code>{6}ms</code>"
 
-queue_1 : "⏭️ Növbəyə alınır.\n\nZəhmət olmasa gözləyin..."
+queue_1 : "Növbəyə alınır.\n\nZəhmət olmasa gözləyin..."
 queue_2 : "🔻 Növbə boşdur."
 queue_3 : "<u>» Əlavə etmək üçün buraya daxil olun və ya növbəyə alınmış təkliflərin siyahısını yoxlayın:</u> <a href={0}>Buraya</a>"
-queue_4 : "<b>⏭️ Növbə: {0}\n\n🎶 Başlıq:</b> {1}\n<b>🕧 Müddət:</b> {2}\n<b>👤 Tələb:</b> {3}"
+queue_4 : "<b>⏭️ Növbə: {0}\n\n🎵 Başlıq:</b> {1}\n<b>⏰ Müddət:</b> {2}\n<b>👤 Tələb:</b> {3}"
 queue_5 : "Siyahıda yalnız bir növbə təklif var.\n\nSiyahını yoxlayın üçün daha çox təklif əlavə edin."
-queue_6 : "<b>🕧 Müddət:</b> Naməlum qalmaq müddəti\n\nTam növbə siyahısını əldə etmək üçün aşağıdakı düyməyə vurun."
+queue_6 : "<b>⏰ Müddət:</b> Naməlum qalmaq müddəti\n\nTam növbə siyahısını əldə etmək üçün aşağıdakı düyməyə vurun."
 queue_7 : "\nTam növbə siyahısını əldə etmək üçün aşağıdakı düyməyə vurun."
 queue_8 : "<b>{0} oynatıcı</b>\n\n<b>Yayım :</b> {1}\n\n<b>🔗 Yayım növü :</b> {2}\n<b>👤 Tələb:</b> {3}\n{4}"
 
-stream_1 : "<b>🎶 Başlıq:</b> <a href={0}>{1}</a>\n<b>🕧 Müddət:</b> {2}\n<b>👤 Tələb:</b> {3}"
+stream_1 : "<b>🎵 Başlıq:</b> <a href={0}>{1}</a>\n<b>⏰ Müddət:</b> {2}\n<b>👤 Tələb:</b> {3}"
 stream_2 : "<b>🔻 Yayım növü:</b> Canlı yayım [URL]\n<b>👤 Tələb:</b> {0}"
 
 
