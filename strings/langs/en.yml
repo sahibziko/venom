@@ -85,11 +85,11 @@ admin_39 : "» 1 səsvermə çıxarıldı."
 admin_40 : "Səsverilmə uğurla yerinə yetirildi."
 
 start_1 : "{0} yaşındadır, qardaş!\n\n<b>✫ Aktivlik müddəti:</b> {1}"
-start_2 : "<b>Salam</b> {0}, 🥀\n\n๏ Bu {1} !\n\n➻ Sürətli və güclü bir Telegram musiqi oynatma botudur.\n\n<b><u>Dəstəklənən platformalar:</b></u> YouTube, Spotify, Resso, Apple Music və SoundCloud.\n──────────────────\n<b>๏ Mənim modullarım və əmrlərim haqqında məlumat almaq üçün kömək düyməsinə basın.</b>"
-start_3 : "Salam {0},\nBu {1}\n\nƏlavə etdiyiniz üçün təşəkkür edirəm. {2}, {3} artıq bu çatda mahnı ifa edə bilər."
+start_2 : "<b>Salam,</b> mənim adım {1} 🐙\n\nQrupunuza əlavə etməklə səsli söhbətlərinizdə musiqi dinləyə bilərsiniz ✨🎶*</b>"
+start_3 : "Salam {0}\nBu {1}\n\nƏlavə etdiyiniz üçün təşəkkür edirəm. {2}, {3} artıq bu çatda mahnı ifa edə bilər."
 start_4 : "🎄 <b>Süperqrup lazımdır</b> 🎄\n\nZəhmət olmasa, qrupunuzu <b>Süperqrup</b>-a çevirin və sonra məni yenidən əlavə edin.\n\n<b>Süperqrup necə etmək olar?</b>\n- Qrupunuzun çat tarixini <b>görünür</b> edin."
 start_5 : "<b>↝ Qara siyahıda olan çat ↜</b>\n\nBu çat {0} verilənlər bazasında qara siyahıdadır.\nSizə <a href={1}>sudo istifadəçi</a> göndərilir və ya <a href={2}>dəstək çatına</a> gedin."
-start_6 : "💝 <b>İzləmə məlumatı</b> 💝\n\n📌 <b>Ad:</b> {0}\n\n⏳ <b>Müddəti:</b> {1} dəqiqə\n👀 <b+Baxışlar:</b> <code>{2}</code>\n⏰ <b>Yayımlandı:</b> {3}\n📎 <b>Kanal:</b> <a href={4}>{5}</a>\n\n<u><b>🥀 {6} tərəfindən gücləndirilmiş axtarış</b></u>"
+start_6 : "💝 <b>İzləmə məlumatı</b> 💝\n\n📌 <b>Ad:</b> {0}\n\n⏳ <b>Müddəti:</b> {1} dəqiqə\n👀 <b+Baxışlar:</b> <code>{2}</code>\n⏰ <b>Yayımlandı:</b> {3}\n📎 <b>Kanal:</b> <a href={4}>{5}</a>\n\n<u><b> {6} tərəfindən gücləndirilmiş axtarış</b></u>"
 
 help_1 : "Kömək almag üçün istədiyiniz kateqoriyanı seçin.\nŞübhələrinizi <a href={0}>dəstək çatında</a> paylaşın.\n\nBütün əmrlər <code>/</code> ilə istifadə oluna bilər."
 help_2 : "Mənim kömək menyumu əldə etmək üçün aşağıdakı düyməyə basın."
@@ -124,7 +124,7 @@ gstats_3 : "<b><u>{0} statistika və məlumat :</u></b>\n\n<b>Köməkçil:</b> <
 gstats_4 : "Bu düymə yalnız sudo istifadəçilər üçündür."
 gstats_5 : "<b><u>{0} statistika və məlumat :</u></b>\n\n<b>Modullar:</b> <code>{1}</code>\n<b>Platforma:</b> <code>{2}</code>\n<b>RAM:</b> <code>{3}</code>\n<b>Fiziki kernerlər:</b> <code>{4}</code>\n<b>Ümumi kernerlər:</b> <code>{5}</code>\n<b>CPU frekansı:</b> <code>{6}</code>\n\n<b>Python:</b> <code>{7}</code>\n<b>Pyrogram:</b> <code>{8}</code>\n<b>Py-TGCall-lar:</b> <code>{9}</code>\n\n<b>Mövcud saxlama:</b> <code>{10} GB</code>\n<b>İstifadə olunan saxlama:</b> <code>{11} GB</code>\n<b>Qalmış saxlama:</b> <code>{12} GB</code>\n\n<b>Server söhbətləri:</b> <code>{13}</code>\n<b>Server istifadəçiləri:</b> <code>{14}</code>\n<b>Qadağan edilmiş istifadəçilər:</b> <code>{15}</code>\n<b>Sudo istifadəçiləri:</b> <code>{16}</code>\n\n<b>Ümumi DB ölçüsü:</b> <code>{17} MB</code>\n<b>Ümumi DB saxlama:</b> <code>{18} MB</code>\n<b>Ümumi DB kolleksiyaları:</b> <code>{19}</code>\n<b>Ümumi DB açarılar:</b> <code>{20}</code>"
 
-playcb_1 : "» Ax, bu sənin üçündür deyil, balam."
+playcb_1 : "» Bu sənin üçündür deyil, balam."
 playcb_2 : "» Növbəti nəticəyə keçirilir,\n\nZəhmət olmasa gözləyin..."
 
 cplay_1 : "» Siz {0} ilə {1} arasında olan kanallarda musiqi səsləyə bilərsiniz və ya səsinizi {2} kanalınıza gətirə bilərsiniz.\n\n<b>Əlaqədə olan kanal üçün:</b>\n<code>/channelplay linked</code>\n\n<b>Başqa bir kanal üçün:</b>\n<code>/channelplay [kanalın ID-si]</code>"
