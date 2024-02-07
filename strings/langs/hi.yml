@@ -81,4 +81,14 @@ admin_40: "Oy verildi."
 start_1 : "{0} hayatta bebek.\n\n<b>✫ Durum :</b> {1}"
 start_2 : "<b>Hey</b> {0}, 🥀\n\n๏ Bu {1}!\n\n➻ Bazı harika özelliklere sahip hızlı ve güçlü bir Telegram müzik çalar botu.\n\n<b><u>Desteklenen Platformlar :</b></u> YouTube, Spotify, Reso, Apple Music ve SoundCloud.\n──────────────────\n<b>๏ Modüllerim ve Komutlarım hakkında bilgi almak için Yardım düğmesine tıklayın.</b>"
 start_3 : "Merhaba {0},\nBu {1}\n\nBeni {2} içinde eklediğiniz için teşekkürler, {3} şimdi bu sohbetle müzik çalabilir."
-start_4 : "🎄 <b>Süpergrup Gerekiyor</b> 🎄\n\nLütfen <b>Grubunuzu</b> <b>S
+start_4 : "🎄 <b>Süpergrup Gereksinimi</b> 🎄\n\nLütfen <b>grubunuzu</b> <b>süpergrup</b>a dönüştürün ve beni yeniden ekleyin.\n\n<b>Süpergrup Nasıl Oluşturulur ?</b>\n- Grubunuzun sohbet geçmişini <b>görünür</b> yapın."
+start_5 : "<b>↝ Kara Listelenen Sohbet ↜</b>\n\nBu sohbet {0} veritabanında kara listelenmiştir.\nSohbetinizi kara listeden çıkarmak için <a href={1}>süper kullanıcı</a> ya da <a href={2}>destek sohbetine</a> başvurun."
+start_6 : "💝 <b>Şarkı Bilgisi</b> 💝\n\n📌 <b>Başlık :</b> {0}\n\n⏳ <b>Süre :</b> {1} dakika\n👀 <b>Görüntülenme :</b> <code>{2}</code>\n⏰ <b>Yayınlanma Tarihi :</b> {3}\n📎 <b>Kanal :</b> <a href={4}>{5}</a>\n\n<u><b>🥀 Tarafından Desteklenen Araştırma {6}</b></u>"
+
+help_1 : "Bu gruptaki kullanıcılara yardım etmek için lütfen kullanıcı türünü seçin.\nŞüphelerinizi <a href={0}>destek sohbetinde</a> sormaktan çekinmeyin.\n\nTüm komutları kullanmak için : <code>/</code>"
+help_2 : "Özel yardım menümü almak için lütfen aşağıdaki düğmeye tıklayın."
+
+lang_1 : "» Lütfen grubun varsayılan dilini ayarlamak için bir dil seçin :"
+lang_2 : "Dil başarıyla değiştirildi."
+lang_3 : "Dil değiştirme başarısız oldu."
+lang_4 : "Zaten aynı dilde bulunuyorsunuz."
