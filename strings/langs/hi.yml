@@ -1,10 +1,10 @@
 name : 🇹🇷 Türkçe
 
-genel_1: "» Bir kullanıcı mesajına yanıt verin veya kullanıcı adı / kullanıcı kimliği verin."
-genel_2: "» Sorgunuz işlenirken bir hata oluştu.\n\nİstisna: <code>{0}</code>"
-genel_3: "Bu sohbette anonim bir yöneticisiniz, kullanıcı hesabına geri dönün."
-genel_4: "» İzinleriniz video sohbeti yönetmek için değil.\n\nYönetici önbelleğini /reload ile yeniden yükleyin"
-genel_5: "» Bot video sohbetinde akış yapmıyor."
+general_1: "» Bir kullanıcı mesajına yanıt verin veya kullanıcı adı / kullanıcı kimliği verin."
+general_2: "» Sorgunuz işlenirken bir hata oluştu.\n\nİstisna: <code>{0}</code>"
+general_3: "Bu sohbette anonim bir yöneticisiniz, kullanıcı hesabına geri dönün."
+general_4: "» İzinleriniz video sohbeti yönetmek için değil.\n\nYönetici önbelleğini /reload ile yeniden yükleyin"
+general_5: "» Bot video sohbetinde akış yapmıyor."
 
 tg_1: "<u><b>{0} İndirici</b></u>\n\n<b>Dosya Boyutu :</b> {1}\n<b>Tamamlandı :</b> {2}\n<b>Yüzde :</b> {3}%\n\n<b>Hız :</b> {4}/s\n<b>Tahmini Bitiş Zamanı (ETA) :</b> {5}"
 tg_2: "Başarıyla indirildi, dosya işleniyor...\n\n<b>Geçen Zaman :</b> {0}"
