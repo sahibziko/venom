@@ -7,7 +7,7 @@ name : 🇹🇷 Türkçe
  general_4 : "» Sesli sohbeti yönetme izniniz yok.\n\nYönetici önbelleğini /reload ile yeniden yükleyin"
  general_5 : "» Çünkü bot Sesli Sohbet'te yayınlandı."
 
- tg_1 : "<u><b>{0} İNDİRİCİ</b></u>\n\n<b>Dosya boyutu:</b> {1}\n<b>Tamamlandı :</b> { 2}\n<b>Yüzde yüz:</b> {3}%\n\n<b>Hız:</b> {4}/s\n<b>ETA:</b> { 5}"
+ tg_1 : "<u><b>{0} İNDİRİCİ</b></u>\n\n<b>Dosya boyutu:</b> {1}\n<b>Tamamlandı :</b> {2}\n<b>Yüzde yüz:</b> {3}%\n\n<b>Hız:</b> {4}/s\n<b>ETA:</b> {5}"
  tg_2 : "Başarıyla Yüklendi, Dosya İşleniyor...\n\n<b>Geçen Süre:</b> {0}"
  tg_3 : "Telegram'dan medya indirilemedi, lütfen tekrar deneyin..."
  tg_4 : "» İndirme zaten tamamlandı."
