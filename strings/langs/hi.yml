@@ -85,11 +85,11 @@ isim : 🇹🇷 Türkçe
  admin_40 : "Oylama başarıyla tamamlandı."
 
  start_1 : "{0} eski dostum!\n\n<b>✫ Aktif süre:</b> {1}"
- start_2 : "<b>🙋🏻‍♀️Merhaba {0</b>\n<b>👀Benim adım {1</b>\n<b>🇦🇿Ben çok işlevli bir Müzik Robotuyum Azerice</b> \n<b>💁🏻‍♀️Beni grubunuza ekleyerek</b>\n<b>kolayca</b>\n<b>sesli sohbetlerde donmadan müzik dinleyebilirsiniz .</b>\n\n<b> Sahip : @The_ferid</b>"
+ start_2 : "<b>🙋🏻‍♀️Merhaba {0</b>\n<b>👀Benim adım {1</b>\n<b>🇹🇷Ben çok işlevli bir Müzik Robotuyum Türkçe</b> \n<b>💁🏻‍♀️Beni grubunuza ekleyerek</b>\n<b>kolayca</b>\n<b>sesli sohbetlerde donmadan müzik dinleyebilirsiniz .</b>\n\n<b> Sahip : @The_ferid</b>"
  start_3 : "{0} Merhaba 🙋🏻‍♀️\nBeni {2} grubuna eklediğiniz için teşekkür ederim. ❤️\n\n{3} hizmetinizde. 👸🏻"
  start_4 : "<b>Süper grup gerekli</b>\n\nLütfen grubunuzu <b>Süper grup</b> olarak değiştirin ve sonra beni tekrar ekleyin.\n\n<b>Süper grup nasıl oluşturulur?</b >\n- Grup sohbet geçmişinizi <b>görünür</b> yapın."
  start_5 : "<b>↝ Kara listeye alınan sohbet ↜</b>\n\nBu sohbet, {0} veritabanında kara listeye alındı.\nSize <a href={1}>sudo kullanıcısına</a> veya <a Git'e gönderildi href={2}>sohbeti destekleyin</a>."
- start_6 : "💝 <b>İzleme Bilgileri</b> 💝\n\n📌 <b>Ad:</b> {0}\n\n⏳ <b>Süre:</b> {1} dakika\ n👀 <b+Görüntülemeler:</b> <code>{2}</code>\n⏰ <b>Yayınlandı:</b> {3}\n📎 <b>Kanal:</b> <a href={4}>{5}</a>\n\n<u><b> arama, {6}</b></u> tarafından desteklenmektedir"
+ start_6 : "💝 <b>İzleme Bilgileri</b> 💝\n\n📌 <b>Ad:</b> {0}\n\n⏳ <b>Süre:</b> {1} dakika\ n👀 <b+Görüntülemeler:</b> <code>{2}</code>\n⏳ <b>Yayınlandı:</b> {3}\n📎 <b>Kanal:</b> <a href={4}>{5}</a>\n\n<u><b> arama, {6}</b></u> tarafından desteklenmektedir"
 
  help_1 : "<b>Komutları ve Eğitimleri görüntülemek için aşağıdaki düğmeleri kullanın. 🔰</b>\n\n<b>Grup üyelerinin yalnızca oynatma komutlarını kontrol etmesi gerekecek ve grup yöneticilerinin yönetici komutlarını kontrol etmesi gerekecek.</b>\ n\ n<b>Yardım için <a href={0}>destek sohbetine</a> yazabilirsiniz.</b>"
  help_2 : "Yardım menümü öğrenmek için aşağıdaki düğmeye tıklayın."
@@ -168,22 +168,22 @@ isim : 🇹🇷 Türkçe
  kuyruk_1 : "Sıraya alınıyor.\n\nLütfen bekleyin..."
  kuyruk_2 : "🔻 Sıra boş."
  kuyruk_3 : "<u>» Sıraya alınmış teklifleri eklemek veya listesini kontrol etmek için buraya gidin:</u> <a href={0}>Burada</a>"
- kuyruk_4 : "<b>⏭️ Sıra: {0}\n\n🎵 Başlık:</b> {1}\n<b>⏰ Süre:</b> {2}\n<b>👤 Gereksinim:< /b> {3}"
+ kuyruk_4 : "<b>⏭️ Sıra: {0}\n\n🎵 Başlık:</b> {1}\n<b>⏳ Süre:</b> {2}\n<b>👤 Gereksinim:< /b> {3}"
  kuyruk_5 : "Listede yalnızca bir teklif kuyruğu var.\n\nListeyi kontrol etmek için daha fazla teklif ekleyin."
- kuyruk_6 : "<b>⏰ Süre:</b> Bilinmeyen süre\n\nTam kuyruk listesini almak için aşağıdaki düğmeyi tıklayın."
+ kuyruk_6 : "<b>⏳ Süre:</b> Bilinmeyen süre\n\nTam kuyruk listesini almak için aşağıdaki düğmeyi tıklayın."
  kuyruk_7 : "\nTam kuyruk listesini almak için aşağıdaki düğmeye tıklayın."
  kuyruk_8 : "<b>{0} oynatıcı</b>\n\n<b>Akış:</b> {1}\n\n<b>🔗 Akış türü :</b> {2}\n <b>👤 Gereksinim:</b> {3}\n{4}"
 
- Stream_1 : "<b>🎵 Başlık:</b> <a href={0}>{1}</a>\n<b>⏰ Süre:</b> {2}\n<b>👤 Talep :</b> {3}"
+ Stream_1 : "<b>🎵 Başlık:</b> <a href={0}>{1}</a>\n<b>⏳ Süre:</b> {2}\n<b>👤 Talep :</b> {3}"
  Stream_2 : "<b>🔻 Yayın türü:</b> Canlı yayın [URL]\n<b>👤 Gereksinim:</b> {0}"
 
 
  CLOSE_BUTTON : "🗑️ Sil"
  BACK_BUTTON : "🔙 Geri"
 
- S_B_1 : "➕ ǫʀᴜᴘᴀ əʟᴀᴠə ᴇᴛ ➕"
+ S_B_1 : "➕ ɢʀᴜʙᴀ ᴇᴋʟᴇ ➕"
  S_B_2 : "Destek Grubu 💬"
- S_B_3 : "➕ ǫʀᴜᴘᴀ əʟᴀᴠə ᴇᴛ ➕"
+ S_B_3 : "➕ ɢʀᴜʙᴀ ᴇᴋʟᴇ ➕"
  S_B_4 : "Komutlar 📚"
  S_B_5 : "sᴀʜiʙ 👨🏻‍💻"
  S_B_6 : "Resmi Kanal ✅"
