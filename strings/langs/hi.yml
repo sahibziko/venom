@@ -1,7 +1,7 @@
 name : 🇹🇷 Türkçe
 
 
- general_1 : "» Kullanıcının mesajını yanıtlayın veya kullanıcı adı\kimlik belirtin"
+ general_1 : "» Kullanıcının mesajını yanıtlayın veya kullanıcı adı/kimlik belirtin"
  general_2 : "» İsteğiniz yürütülürken bir şeyler ters gitti.\n\nİstisna: <code>{0}</code>"
  general_3 : "Bu sohbette anonim bir yöneticisiniz, beni kullanmak için kullanıcı hesabına geri dönün."
  general_4 : "» Sesli sohbeti yönetme izniniz yok.\n\nYönetici önbelleğini /reload ile yeniden yükleyin"
