@@ -117,3 +117,14 @@ gstats_2: "Lütfen aşağıdaki düğmelere tıklayarak {0} durumlarını kontro
 gstats_3: "<b><u>{0} Durum ve Bilgiler:</u></b>\n\n<b>Asistanlar :</b> <code>{1}</code>\n<b>Bloklanan :</b> <code>{2}</code>\n<b>Chatler:</b> <code>{3}</code>\n<b>Kullanıcılar :</b> <code>{4}</code>\n<b>Modüller :</b> <code>{5}</code>\n<b>Sudo Kullanıcılar :</b> <code>{6}</code>\n\n<b>Otomatik Ayrılma Asistanı :</b> {7}\n<b>Oynatma Süresi Sınırlaması :</b> {8} dakika"
 gstats_4: "Bu düğme sadece sudo kullanıcılar içindir."
 gstats_5: "<b><u>{0} Durum ve Bilgiler:</u></b>\n\n<b>Modüller :</b> <code>{1}</code>\n<b>Platform :</b> <code>{2}</code>\n<b>RAM :</b> <code>{3}</code>\n<b>Fiziksel Çekirdekler :</b> <code>{4}</code>\n<b>Toplam Çekirdekler :</b> <code>{5}</code>\n<b>CPU Frekansı :</b> <code>{6}</code>\n\n<b>Python :</b> <code>{7}</code>\n<b>Pyrogram :</b> <code>{8}</code>\n<b>Py-TG-Caller :</b> <code>{9}</code>\n\n<b>Kullanılabilir Depolama :</b> <code>{10} GB</code>\n<b>Kullanılan Depolama :</b> <code>{11} GB</code>\n<b>Kalan Depolama :</b> <code>{12} GB</code>\n\n<b>Toplam Sohbetler :</b> <code>{13}</code>\n<b>Toplam Kullanıcılar :</b> <code>{14}</code>\n<b>Bloklanan Kullanıcılar :</b> <code>{15}</code>\n<b>Sudo Kullanıcıları :</b> <code>{16}</code>\n\n<b>Toplam DB Boyutu :</b> <code>{17} MB</code>\n<b>Toplam DB Depolama :</b> <code>{18} MB</code>\n<b>Toplam DB Koleksiyonları :</b> <code>{19}</code>\n<b>Toplam DB Key :</b> <code>{20}</code>"
+
+playcb_1: "» Şimdi, bu senin için not."
+playcb_2: "» Sonuç alınıyor,\n\nLütfen bekleyin..."
+
+cplay_1: "» {0} kanallarından müzik çalabilir ve diğer kanallar arasında ve sohbetlerinizde bağlantı kanalları oluşturabilirsiniz.\n\n<b>Bağlantılı Kanallar için:</b>\n<code>/channelplay linked</code>\n\n<b>Diğer Kanallar için:</b>\n<code>/channelplay [kanal ID]</code>"
+cplay_2: "» Bu sohbet bağlı kanallara sahip değil."
+cplay_3: "» Kanal {0} için tanımlandı.\nKanal ID'si: <code>{1}</code>"
+cplay_4: "» Kanala bağlanılamadı.\n\nEmin olun botun kanalınıza eklendiğini ve yönetici olarak atandığını kontrol edin."
+cplay_5: "Sadece kanallar desteklenir."
+cplay_6: "» Bu kanalı bu gruba bağlamak için {0} 'un sahibi olmanız gerekir.\n<b>Kanal Sahibi:</b> @{1}\n\nAlternatif olarak, grubunuzu bu kanala bağlayabilir ve ardından <code>/channelplay linked</code> ile bağlanmayı deneyebilirsiniz."
+cplay_7: "» Kanal oynatma devre dışı bırakıldı."
