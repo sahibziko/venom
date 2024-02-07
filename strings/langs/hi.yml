@@ -165,3 +165,22 @@ queue_3 : "<u>» Kuyruktaki parçaların listesini görmek için buraya tıklay�
 queue_4 : "➲ <b>#{0} Sıraya Eklendi\n\n‣ Başlık:</b> {1}\n<b>‣ Süre:</b> {2}\n<b>‣ İsteyen:</b> {3}"
 queue_5 : "Sadece bir kuyrukta bir parça var.\n\nDaha fazla parça eklemek için listeye göz atın."
 queue_6 : "<b>🕚 Süre:</b> Bilinmeyen akış\n\nTüm kuyruğu almak için aşağıdaki düğmeye tıklayın."
+queue_7 : "Aşağıdaki düğmeye tıklayın."
+queue_8 : "<b>{0} Oynatıcı</b>\n\n🎄 <b>Akış:</b> {1}\n\n🔗 <b>Akış Türü:</b> {2}\n🥀 <b>Talep Eden:</b> {3}\n{4}"
+
+stream_1 : "➲ <b>Akış Başlatıldı |</b>\n\n<b>‣ Başlık:</b> <a href={0}>{1}</a>\n<b>‣ Süre:</b> {2} dakika\n<b>‣ Talep Eden:</b> {3}"
+stream_2 : "➲ <b>Akış Başlatıldı |</b>\n\n<b>‣ Akış Türü:</b> Canlı Akış [URL]\n<b>‣ Talep Eden:</b> {0}"
+
+CLOSE_BUTTON : "Kapat"
+BACK_BUTTON : "Geri"
+
+S_B_1 : "Beni Ekle"
+S_B_2 : "Destek"
+S_B_3 : "Beni Grubuma Ekle"
+S_B_4 : "Yardım ve Komutlar"
+S_B_5 : "Geliştirici"
+S_B_6 : "Kanal"
+S_B_7 : "Kaynak Kodu"
+S_B_8 : "👀 YouTube 👀"
+S_B_9 : "🥀 Destek 🥀"
+
