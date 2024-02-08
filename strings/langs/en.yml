@@ -178,8 +178,8 @@ stream_1 : "<b>🎵 Başlıq:</b> <a href={0}>{1}</a>\n<b>⏳ Müddət:</b> {2}\
 stream_2 : "<b>🔻 Yayım növü:</b> Canlı yayım [URL]\n<b>👤 Tələb:</b> {0}"
 
 
-CLOSE_BUTTON  : "🗑️ Sil"
-BACK_BUTTON : "🔙 Geri"
+CLOSE_BUTTON  : "Bağla"
+BACK_BUTTON : "Geri"
 
 S_B_1 : "➕ ǫʀᴜᴘᴀ əʟᴀᴠə ᴇᴛ ➕"
 S_B_2 : "Dəstək Qrupu 💬"
