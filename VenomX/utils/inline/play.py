@@ -10,16 +10,6 @@ def track_markup(_, videoid, user_id, channel, fplay):
     buttons = [
         [
             InlineKeyboardButton(
-                text=_["P_B_1"],
-                callback_data=f"MusicStream {videoid}|{user_id}|a|{channel}|{fplay}",
-            ),
-            InlineKeyboardButton(
-                text=_["P_B_2"],
-                callback_data=f"MusicStream {videoid}|{user_id}|v|{channel}|{fplay}",
-            )
-        ],
-        [
-            InlineKeyboardButton(
                 text="👨🏻‍💻 sᴀʜiʙ", url=f"tg://openmessage?user_id={OWNER_ID}",
             ),
             InlineKeyboardButton(
@@ -61,14 +51,7 @@ def stream_markup_timer(_, chat_id, played, dur):
         bar = "────────▷─"
     else:
         bar = "─────────▷"
-    buttons = [
-        [
-            InlineKeyboardButton(text="▷", callback_data=f"ADMIN Resume|{chat_id}"),
-            InlineKeyboardButton(text="II", callback_data=f"ADMIN Pause|{chat_id}"),
-            InlineKeyboardButton(text="↻", callback_data=f"ADMIN Replay|{chat_id}"),
-            InlineKeyboardButton(text="‣‣I", callback_data=f"ADMIN Skip|{chat_id}"),
-            InlineKeyboardButton(text="▢", callback_data=f"ADMIN Stop|{chat_id}"),
-        ],
+    buttons = [ 
         [
             InlineKeyboardButton(
                 text=f"{played} {bar} {dur}",
@@ -90,13 +73,6 @@ def stream_markup_timer(_, chat_id, played, dur):
 
 def stream_markup(_, chat_id):
     buttons = [
-        [
-            InlineKeyboardButton(text="▷", callback_data=f"ADMIN Resume|{chat_id}"),
-            InlineKeyboardButton(text="II", callback_data=f"ADMIN Pause|{chat_id}"),
-            InlineKeyboardButton(text="↻", callback_data=f"ADMIN Replay|{chat_id}"),
-            InlineKeyboardButton(text="‣‣I", callback_data=f"ADMIN Skip|{chat_id}"),
-            InlineKeyboardButton(text="▢", callback_data=f"ADMIN Stop|{chat_id}")
-            ],
         [
             InlineKeyboardButton(
                 text="👨🏻‍💻 sᴀʜiʙ", url=f"tg://openmessage?user_id={OWNER_ID}",
