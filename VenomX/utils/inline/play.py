@@ -20,10 +20,10 @@ def track_markup(_, videoid, user_id, channel, fplay):
         ],
         [
             InlineKeyboardButton(
-                text="👨🏻‍💻 Əlaqə", url=f"tg://openmessage?user_id={OWNER_ID}",
+                text="👨🏻‍💻 sᴀʜiʙ", url=f"tg://openmessage?user_id={OWNER_ID}",
             ),
             InlineKeyboardButton(
-                text="🗨️ Söhbət Qrupu", url=SUPPORT_CHAT,
+                text="🗨️ sᴜᴘᴘᴏʀᴛ", url=SUPPORT_CHAT,
             )
         ],
         [
