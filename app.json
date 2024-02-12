@@ -14,37 +14,37 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "26090016",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "5b842f9801712684f2b98d70ead6538d",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "",
+        "value": "6884291431:AAE0ohhqcoJFeYXne6-VNI8npL46fyE5Szs",
         "required": true
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "",
+        "value": "mongodb+srv://fridabisov26:feridabusov2@cluster0.rrmqdo9.mongodb.net/?retryWrites=true&w=majority",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "6306738739",
+        "value": "6471021703",
         "required": true
       },
       "STRING_SESSION": {
         "description": "A Pyrogram v2 String Session from @Venom_string_robot on Telegram.",
-        "value": "",
+        "value": "AgGz374AgxfrPwlMkuR9S4eM_xpCwqqKBPPvqlaz2kabXvOLfQd6IMqwBKuNvh-IX4210BnCjdYEMDLoicM4K9-1sshxkBDV1pPmHYAREHhlc1W2Nn4hbuAJ6Iyehlui_UrfqNQ-diGllC_vdsRjf_t91GIRV01xankc6_17JBTYrwj3a6V9-NJYJuaU6GkzajXRsthayWNK34_lGsQg1we-2Ij9_xFhONP1YKcySlIC4r7DhQw6Xqs5Q_sodDC8AXqQmT9kRQF5jzw-0s4L1er-2lJ1LeTFwBmdxEPicbsR1rVCywnzTC8B54UOl1Uno2GwdozJlI78BRZXOA7x5aUnq4h4ywAAAAFPGm-xAA",
         "required": true
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku account's API key",
-        "value": "",
+        "value": "39f53a58-f417-4281-8898-c797e45cf2aa",
         "required": false
       },
       "HEROKU_APP_NAME": {
@@ -54,7 +54,7 @@
       },
       "LOGGER_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-        "value": "",
+        "value": "-1002063353430",
         "required": true
       }
     },
