@@ -135,7 +135,7 @@ cplay_5 : "Yalnız kanallar dəstəklənir."
 cplay_6 : "» Qrupu ilə əlaqə qurmaq üçün, sizin {0} kanalının <b>sahibi</b> olmalısınız.\n<b>Kanalın sahibi :</b> @{1}\n\nAlternativ olaraq, qrupunuzu o kanala bağlaya və sonra <code>/channelplay linked</code> ilə əlaqə qura bilərsiniz."
 cplay_7 : "» Kanal oynatma deaktiv edildi."
 
-play_1 : "🔍"
+play_1 : "🔎"
 play_2 : "<b>➻ Kanal oynatma rejimi</b>\n\nİşlənilir, gözləyin...\n\n<b>Əlaqəli kanal :</b> {0}"
 play_3 : "» Sorğu işlənilmədi."
 play_4 : "<b>Yalnız adminlər oynaya bilər</b>\nYalnız bu söhbətin adminlərinə icazə verilib oynamağa\n\nOynama rejimini /playmode vasitəsi ilə dəyişdirin"
