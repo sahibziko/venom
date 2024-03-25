@@ -85,7 +85,7 @@ admin_39 : "» 1 səsvermə çıxarıldı."
 admin_40 : "Səsverilmə uğurla yerinə yetirildi."
 
 start_1 : "{0} yaşındadır, qardaş!\n\n<b>✫ Aktivlik müddəti:</b> {1}"
-start_2 : "<b>🙋🏻‍♀️Salam {0}</b>\n<b>👀Mənim adım {1}</b>\n<b>🇦🇿Azərbaycan dilində çox funksiyalı Musiqi Botuyam</b>\n<b>💁🏻‍♀️Məni Qrupunuza Əlavə edərək</b>\n<b>səsli söhbətlərdə rahatca</b>\n<b>donmasız Musiqi dinləyə bilərsiniz.</b>\n\n<b>Sahibim : @NatiqOwner</b>"
+start_2 : "<b>🙋🏻‍♀️Salam {0}</b>\n<b>👀Mənim adım {1}</b>\n<b>🇦🇿Azərbaycan dilində çox funksiyalı Musiqi Botuyam</b>\n<b>💁🏻‍♀️Məni Qrupunuza Əlavə edərək</b>\n<b>səsli söhbətlərdə rahatca</b>\n<b>donmasız Musiqi dinləyə bilərsiniz.</b>\n\n<b>Sahibim : @khalilovss</b>"
 start_3 : "{0} Salam 🙋🏻‍♀️\nMəni {2} qrupuna əlavə etdiyiniz üçün təşəkkür edirəm. ❤️\n\n{3} Xidmətinizdədir. 👸🏻"
 start_4 : "<b>Süperqrup lazımdır</b>\n\nZəhmət olmasa, qrupunuzu <b>Süperqrup</b>-a çevirin və sonra məni yenidən əlavə edin.\n\n<b>Süperqrup necə etmək olar?</b>\n- Qrupunuzun çat tarixini <b>görünür</b> edin."
 start_5 : "<b>↝ Qara siyahıda olan çat ↜</b>\n\nBu çat {0} verilənlər bazasında qara siyahıdadır.\nSizə <a href={1}>sudo istifadəçi</a> göndərilir və ya <a href={2}>dəstək çatına</a> gedin."
