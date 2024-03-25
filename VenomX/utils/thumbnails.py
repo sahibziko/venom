@@ -122,7 +122,7 @@ async def get_thumb(videoid):
             font4 = ImageFont.truetype('VenomX/assets/font2.ttf', 35)
 
             image4 = ImageDraw.Draw(image2)
-            image4.text((10, 10), "GTA x MUSIC", fill="white", font = font1, align ="left") 
+            image4.text((10, 10), "SS x MUSIC", fill="white", font = font1, align ="left") 
             image4.text((670, 150), "NOW PLAYİNG", fill="white", font = font2, stroke_width=2, stroke_fill="white", align ="left") 
 
             # title
