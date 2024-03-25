@@ -80,7 +80,7 @@ admin_39: "1 oy kaldırıldı."
 admin_40: "Oy verildi."
 
 start_1 : "{0} hayatta bebek.\n\n<b>✫ Durum :</b> {1}"
-start_2 : "<b>🙋🏻‍♀️Merhaba {0}</b>\n<b>👀Benim adım {1}</b>\n<b>🇹🇷Türk dilinde çok işlevli Müzik Botuyum</b>\n<b>💁🏻‍♀️Beni Grubunuza ekleyerek</b>\n<b>sesli sohbetlerde rahatlıkla</b>\n<b>donmadan Müzik dinleyebilirsiniz.</b>\n\n<b>Sahibim : @NatiqOwner</b>"
+start_2 : "<b>🙋🏻‍♀️Merhaba {0}</b>\n<b>👀Benim adım {1}</b>\n<b>🇹🇷Türk dilinde çok işlevli Müzik Botuyum</b>\n<b>💁🏻‍♀️Beni Grubunuza ekleyerek</b>\n<b>sesli sohbetlerde rahatlıkla</b>\n<b>donmadan Müzik dinleyebilirsiniz.</b>\n\n<b>Sahibim : @khalilovss</b>"
 start_3 : "Merhaba {0},\nBu {1}\n\nBeni {2} içinde eklediğiniz için teşekkürler, {3} şimdi bu sohbetle müzik çalabilir."
 start_4 : "🎄 <b>Süpergrup Gereksinimi</b> 🎄\n\nLütfen <b>grubunuzu</b> <b>süpergrup</b>a dönüştürün ve beni yeniden ekleyin.\n\n<b>Süpergrup Nasıl Oluşturulur ?</b>\n- Grubunuzun sohbet geçmişini <b>görünür</b> yapın."
 start_5 : "<b>↝ Kara Listelenen Sohbet ↜</b>\n\nBu sohbet {0} veritabanında kara listelenmiştir.\nSohbetinizi kara listeden çıkarmak için <a href={1}>süper kullanıcı</a> ya da <a href={2}>destek sohbetine</a> başvurun."
