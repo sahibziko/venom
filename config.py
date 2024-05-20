@@ -7,14 +7,14 @@ from pyrogram import filters
 load_dotenv()
 
 # Get this value from my.telegram.org/apps
-API_ID = int(getenv("API_ID", "21236884"))
-API_HASH = getenv("API_HASH", "2e526fe32b1177ba7ce3d552640ab854")
+API_ID = int(getenv("API_ID", "3011757"))
+API_HASH = getenv("API_HASH", "1bb6781eb0e370d1f3d6b524bd8ad472")
 
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = getenv("BOT_TOKEN", "6370639090:AAFw1NaE3IgSg2aOzXgjiuyGvRqS3djNHho")
+BOT_TOKEN = getenv("BOT_TOKEN", "6991503896:AAE9TSHa3hFlkVxhCp-4SsZ5V81q85ocULM")
 
 # Get your mongo url from cloud.mongodb.com
-MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://abbaslinatiq58:natiq.3169@cluster0.2w9vfhx.mongodb.net/?retryWrites=true&w=majority")
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://elegant:SsSsSs1212Ss!@elegant.ptzwgmg.mongodb.net/?retryWrites=true&w=majority&appName=elegant")
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 5400))
 
@@ -22,10 +22,10 @@ SONG_DOWNLOAD_DURATION = int(
     getenv("SONG_DOWNLOAD_DURATION_LIMIT", "5400")
 )
 # Chat id of a group for logging bot's activities
-LOGGER_ID = int(getenv("LOGGER_ID", "-1002057111740"))
+LOGGER_ID = int(getenv("LOGGER_ID", "-1002104254612"))
 
 # Get this value from @Hot_Girl_Robot on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", "5567060261"))
+OWNER_ID = int(getenv("OWNER_ID", "1419590194"))
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
@@ -35,14 +35,14 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Abbasov04/ssmusic",
+    "https://github.com/sahibziko/venom/",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None)  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/khalilovblogs")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/AmazingChatSS")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/apexubsohbet")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Apexubsohbet")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
